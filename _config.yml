@@ -2,7 +2,7 @@
 # _config.yml for jekyll-bootstrap-blank
 #
 
-exclude: [ "CNAME", "README.md", "LICENSE.txt", "tmp", "*.sh", "**/*_src*" ]
+exclude: [ "CNAME", "README.md", "LICENSE.txt", "UNLICENSE.txt", "tmp", "*.sh", "**/*_src*" ]
 permalink: /blog/:year/:month/:day/:title/index.html
 production_url: https://LATER.example.com
 title: LATER site 

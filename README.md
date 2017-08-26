@@ -23,3 +23,9 @@ All pages go into the `sitemap.xml` file unless they have `noindex: true` in the
 
 See the [credits page](https://jekyll-bootstrap-blank.fileformat.info/)!
 
+## To Do
+
+ - [ ] github repo name in _config.yaml, use it in footer.html
+ - [ ] use javascript to show typed URL in `404.html`
+ - [ ] log 404s to Google Analytics
+
