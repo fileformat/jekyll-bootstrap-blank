@@ -1,5 +1,5 @@
 #
-# _config.yml for andrew.marcuse.info
+# _config.yml for jekyll-bootstrap-blank
 #
 
 exclude: [ "CNAME", "README.md", "LICENSE.txt", "tmp", "*.sh", "**/*_src*" ]
