@@ -15,11 +15,11 @@ system or plugins or other magic going on.  It should be so simple, yet it wasn'
 ## Notes
 
 I set the default layout to `default`, so if you have a page that has front matter but should not get the standard template,
-you need to specify the `none` layout (see the `(robots.txt)[https://github.com/fileformat/jekyll-bootstrap-blank/blob/master/robots.txt]` file format an example).
+you need to specify the `none` layout (see the `[robots.txt](https://github.com/fileformat/jekyll-bootstrap-blank/blob/master/robots.txt)` file format an example).
 
 All pages go into the `sitemap.xml` file unless they have `noindex: true` in the front matter.
 
 ## Credits
 
-See the (credits page)[https://jekyll-bootstrap-blank.fileformat.info/]!
+See the [credits page](https://jekyll-bootstrap-blank.fileformat.info/)!
 
