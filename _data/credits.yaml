@@ -33,10 +33,10 @@
   url: https://jquery.com/
   id: jquery
 
-- name: Ömer Çetin
+- name: Google Noto Font
   description: Under Construction FavIcon
-  url: http://omercetin.deviantart.com/art/PixeloPhilia2-166570194
-  id:
+  url: https://github.com/googlei18n/noto-emoji/blob/master/svg/emoji_u1f6a7.svg
+  id: google
 
 - name: W3C Markup Validation Service
   description: HTML file validation
