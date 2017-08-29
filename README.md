@@ -1,7 +1,7 @@
 # Jekyll Bootstrap Blank
 
 All I wanted was a plain [Jekyll](https://jekyllrb.com/) template with [Bootstrap](http://getbootstrap.com/).  No extra themeing
-system or plugins or other magic going on.  It should be so simple, yet it wasn't there.  So I made it.
+system or plugins or other magic going on.  It should be so simple, yet it wasn't there.  So I made [it](https://jekyll-bootstrap-blank.fileformat.info/).
 
 ## Things to change
 
