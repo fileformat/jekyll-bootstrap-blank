@@ -18,5 +18,5 @@ defaults:
 
 google_analytics_id: LATER
 google_validation: LATER
-alexa_validation: LATER
 bing_validation: LATER
+yandex_validation: LATER
