@@ -8,7 +8,7 @@ layout: none
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for thePage in site.pages %}{% if thePage.noindex %}{% else %}	<url><loc>{{site.production_url}}/{{ page.path | replace: ".md", ".html" }}</loc></url>
+{% for thePage in site.pages %}{% if thePage.noindex %}{% else %}	<url><loc>{{site.production_url}}{{ thePage.url }}</loc></url>
 {% endif %}{% endfor %}
 {% for post in site.posts %}{% if post.noindex %}{% else %}	<url><loc>{{site.production_url}}{{ post.url }}</loc></url>
 {% endif %}{% endfor %}
